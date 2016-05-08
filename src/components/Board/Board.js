@@ -1,4 +1,4 @@
-import { PropTypes } from 'react'
+import React, { PropTypes } from 'react'
 import Radium from 'radium'
 import globalStyles from 'styles/js/global_styles'
 import themeStyles from 'styles/js/theme_styles'

@@ -1,4 +1,4 @@
-import { PropTypes } from 'react'
+import React, { PropTypes } from 'react'
 import Radium from 'radium'
 import styles from 'styles/js/global_styles'
 import unicodeIcons from './unicode-icons.js'
